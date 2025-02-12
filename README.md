@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🌟 Bienvenido a mi GitHub
 
-<!--
-**franKRJA/franKRJA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, soy **[Tu Nombre]**, un apasionado desarrollador de software con experiencia en la creación de soluciones innovadoras y eficientes. Siempre estoy explorando nuevas tecnologías y buscando mejorar mis habilidades.
 
-Here are some ideas to get you started:
+## 💻 Acerca de Mí
+- 🔭 Actualmente estudiando en IES Alfonso XI.
+- 🌱 Aprendiendo más sobre tecnologías o herramientas de interés.
+- 🎯 Interesado en desarrollo web, inteligencia artificial y software escalable.
+- 📫 Puedes contactarme en: franlozzano5@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Conectemos
+¡Siempre abierto a nuevas oportunidades y colaboraciones! No dudes en contactarme si deseas trabajar juntos en algún proyecto interesante.
+
+Gracias por visitar mi perfil. ¡Feliz programación! 🎉
